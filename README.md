@@ -1,5 +1,5 @@
 <a href="https://coderstats.net/github/#hackingthesystems">
-  <title>Statistics</title>
+  <p class="ex2">Statistics</p>
   </br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackingthesystems&theme=dracula" />
   </br>
