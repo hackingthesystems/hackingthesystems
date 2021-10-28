@@ -1,8 +1,6 @@
 <p class="ex2">About me!</p>
-</br>
 <p> Hey, whats up. I am a small developer who just likes to mess around with code. </p>
-</br>
-<p class="ex2">Stats</p>
+<p style="font-size: 50px;">Stats</p>
 </br>
 <a href="https://coderstats.net/github/#hackingthesystems">
   </br>
